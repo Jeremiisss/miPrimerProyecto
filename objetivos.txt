@@ -1,1 +1,2 @@
-Mi objetivo en Programacion es aprender Java
+Mi objetivo en Programacion es aprender Java.
+Me gustaria aprender GitHub
